@@ -1,7 +1,5 @@
 # aplicacao-devops
 
-Claro, aqui está um exemplo de como você pode criar/editar o README para descrever a aplicação e como usá-la:
-
 Aplicação Node.js com Express.js
 Esta é uma aplicação simples em Node.js usando o framework Express.js. Ela contém dois endpoints: um para servir uma página HTML de boas-vindas e outro para retornar uma lista de integrantes do grupo no formato JSON.
 
